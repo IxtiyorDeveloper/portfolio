@@ -425,6 +425,12 @@ button:focus {
     text-align: center !important;
   }
 }
+@media (max-width: 500px) {
+  .heading-name {
+    font-size: 1.5em !important;
+    padding-left: 45px !important;
+  }
+}
 
 .footer h3 {
   font-size: 1em;
